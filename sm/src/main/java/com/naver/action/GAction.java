@@ -28,7 +28,7 @@ public class GAction {
 	// this.gService = gService;
 	// }
 
-	/* 방명록 글쓰기 */
+	/* 방명록 글쓰기  */
 	@RequestMapping(value = "/g_write.do")
 	public String g_write() {
 		return "g/g_write";
