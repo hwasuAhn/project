@@ -8,5 +8,6 @@
 </head>
 <body>
  sm프로젝트 등록
+ sm프로젝트 등록(변경)
 </body>
 </html>
