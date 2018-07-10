@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>server.xml sm 프로젝트 등록</title>
+<title>server.xml sm 프로젝트 등록(수정)</title>
 </head>
 <body>
  sm프로젝트 등록
