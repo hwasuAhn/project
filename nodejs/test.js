@@ -23,4 +23,4 @@ console.log('곰곰');
 console.log('2020.07.14');
 console.log('2020.07.14');
 console.log('2020.07.14');
-console.log('2020.07.14');
+console.log('15:00');
