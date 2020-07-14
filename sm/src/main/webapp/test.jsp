@@ -7,6 +7,15 @@
 <title>server.xml sm 프로젝트 등록(수정)(김현준다시!!!~~~~)</title>
 </head>
 <body>
+<<<<<<< HEAD
  sm프로젝트 등록(2020.07.14수정)
+=======
+<<<<<<< HEAD
+ sm프로젝트 등록(2020.07.14수정)
+ 
+=======
+sm 프로젝트 등록(2020.07.14 수정)
+>>>>>>> branch 'master' of https://github.com/hwasuAhn/project.git
+>>>>>>> refs/remotes/origin/master
 </body>
 </html>
